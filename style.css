@@ -57,7 +57,12 @@ form .button2{
     height: 25px;
     border-radius: 25px;
     border-color: #8e8e8e;
-    border-width: 1px;
+    border-width: .5px;
     box-shadow: 4px gray;
 }
 
+.footright {
+    float: right;
+    margin-right:0;
+    padding-right: 0;
+}
