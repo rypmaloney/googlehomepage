@@ -17,6 +17,7 @@ ul li {
 }
 footer {
     margin-top: 12em;
+    margin-bottom: 0;
 }
 
 img {
@@ -65,4 +66,11 @@ form .button2{
     float: right;
     margin-right:0;
     padding-right: 0;
+}
+
+.footleft {
+    float: left;
+    margin-left: 0;
+    padding-left:0;
+    
 }
